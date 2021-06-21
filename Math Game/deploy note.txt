@@ -1,0 +1,12 @@
+1. download and install git
+2. download and install heroku
+3. create heroku account
+4. open terminal and check whether git and heroku are successfully installed or not
+5. create a simple streamlit app
+6. create requirements.txt file
+7. create Procfile
+8. create setup.sh file
+9. open terminal and login heroku
+10. create new app in terminal
+11. intialize git repo
+12. push all files to heroku master with help of git
